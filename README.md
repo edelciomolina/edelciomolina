@@ -1,1 +1,1 @@
-[![Edelcio Molina](https://https://raw.githubusercontent.com/edelciomolina/me/master/profile_cover.jpg)](https://github.com/edelciomolina)
+[![Edelcio Molina](https://raw.githubusercontent.com/edelciomolina/edelciomolina/master/assets/images/profile_cover.jpg)](https://github.com/edelciomolina)
