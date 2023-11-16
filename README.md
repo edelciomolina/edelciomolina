@@ -1,7 +1,7 @@
 [![Edelcio Molina](https://raw.githubusercontent.com/edelciomolina/edelciomolina/master/assets/images/profile_cover.jpg)](https://github.com/edelciomolina)
 
 <h1 align="center">Hi 👋, I'm Edelcio Molina</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edelciomolina&label=Profile%20views&color=0e75b6&style=flat" alt="edelciomolina" /> </p>
 
