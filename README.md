@@ -8,18 +8,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edelciomolina" alt="edelciomolina" /></a> </p>
 
 - 🔭 I’m currently working on **SimplificaCI**
-
 - 🌱 I’m currently learning **How to have mental sanity**
-
 - 👯 I’m looking to collaborate on **Magic Stuffs**
-
 - 🤝 I’m looking for help with **Programming**
-
 - 👨‍💻 All of my projects are available at [github.com/edelciomolina](github.com/edelciomolina)
-
 - 💬 Ask me about **What you wish**
-
 - 📫 How to reach me **edelciomolina@gmail.com**
+
+<h3 align="left">Some projects:</h3>
+
+- [Add SourceURL](https://www.npmjs.com/package/add-sourceurl)
+- [Inquirer Ttable Input](https://www.npmjs.com/package/inquirer-table-input)
+- [XML Console Editor](https://www.npmjs.com/package/xml-console.editor)
+- [Pool Heating](https://github.com/edelciomolina/pool-heating)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
